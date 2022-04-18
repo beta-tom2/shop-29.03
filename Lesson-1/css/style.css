@@ -107,11 +107,9 @@ body {
   background-color: var(--sales-bkg-color);
 }
 
-/*
 .sales__item--woman {
-
+  background-image: url(../);
 }
-*/
 
 .sales__item--shoes {
   width: 100%;

@@ -107,12 +107,36 @@ body {
   background-color: var(--sales-bkg-color);
 }
 
-/*
 .sales__item--woman {
-
+  background-image: url(../img_background/for_woman.png);
 }
-*/
+
+.sales_text {
+  text-align: center;
+  margin: 85px 83px;
+  text-transform: uppercase;
+}
+
+.sales__item-title {
+  color: #ffffff;
+  font-size: 16px;
+}
+
+.sales__item-text {
+  color: #f16d7f;
+  font-size: 24px;
+}
+
+.sales__item--man {
+  background-image: url(../img_background/for_man.png);
+}
+
+.sales__item--kids {
+  background-image: url(../img_background/for_kids.png);
+}
 
 .sales__item--shoes {
+  background-image: url(../img_background/shoes.png);
+  margin-top: 30px;
   width: 100%;
 }
